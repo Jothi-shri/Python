@@ -1,0 +1,301 @@
+StudentID,Name,Sub1,Sub2,Sub3,Sub4,Sub5,Total,Percentage,Grade,Result
+3336,David Palmer,71,34,91,80,40,316,63.2,C,Fail
+8774,Andrew Roach,94,94,43,22,41,294,58.8,D,Fail
+1396,Jonathan Gonzalez,72,21,49,57,21,220,44,F,Fail
+6716,Kenneth Morrow,83,79,40,52,95,349,69.8,C,Pass
+8830,Kaitlyn Martinez,77,41,68,78,61,325,65,C,Pass
+5305,Tiffany Wolf,79,99,34,81,81,374,74.8,B,Fail
+5048,James Reyes,66,81,70,74,83,374,74.8,B,Pass
+5986,Samantha Sellers,22,70,26,40,92,250,50,D,Fail
+8721,Michael Kim,58,37,23,79,33,230,46,F,Fail
+6622,Emily Davis,28,72,21,79,90,290,58,D,Fail
+3254,Adam Evans,63,27,66,54,97,307,61.4,C,Fail
+8021,Alejandra Galloway,100,55,69,23,21,268,53.6,D,Fail
+9477,Cindy Johnston,25,73,23,73,82,276,55.2,D,Fail
+9144,Taylor Krueger II,37,63,53,93,81,327,65.4,C,Pass
+4854,Kimberly Vang,33,67,34,91,97,322,64.4,C,Fail
+3690,Alex Allen,81,59,99,72,43,354,70.8,B,Pass
+4462,Dawn Caldwell,45,79,60,48,34,266,53.2,D,Fail
+3255,Connie Cline,64,84,90,28,20,286,57.2,D,Fail
+5446,Christine Smith,27,82,30,100,27,266,53.2,D,Fail
+8125,Dana Burke,54,54,52,24,60,244,48.8,F,Fail
+3052,Suzanne Lopez,47,26,92,91,31,287,57.4,D,Fail
+2602,Meagan Thompson,53,52,67,42,81,295,59,D,Pass
+1866,Erica Welch,56,63,54,84,66,323,64.6,C,Pass
+4908,Debra Reilly,97,22,20,24,33,196,39.2,F,Fail
+6711,Rachel Hill,46,28,98,34,61,267,53.4,D,Fail
+1165,Lauren Hill,96,70,82,71,23,342,68.4,C,Fail
+7657,Andrea Castro,42,34,62,48,55,241,48.2,F,Fail
+4776,Sarah Cruz,32,51,90,78,47,298,59.6,D,Fail
+5711,Teresa Patrick PhD,85,61,64,81,76,367,73.4,B,Pass
+8511,Brittany Thompson,25,47,47,63,49,231,46.2,F,Fail
+4009,Sean Wells,81,94,81,20,46,322,64.4,C,Fail
+7998,Robert Simmons,81,96,22,89,91,379,75.8,B,Fail
+5676,William Holt,46,28,81,56,70,281,56.2,D,Fail
+8134,Brandon Garcia,63,43,98,78,51,333,66.6,C,Pass
+5119,Alexander Jones,71,81,77,71,31,331,66.2,C,Fail
+7304,William Anderson,58,21,22,75,100,276,55.2,D,Fail
+3663,Shawna Glover,78,21,21,73,20,213,42.6,F,Fail
+6423,Susan Galvan,38,21,72,63,51,245,49,F,Fail
+5155,Jason King,89,51,87,74,94,395,79,B,Pass
+1066,Alexander Simmons,75,36,57,43,88,299,59.8,D,Pass
+5773,James Moore,89,30,35,92,78,324,64.8,C,Fail
+8417,Frank Garza,89,99,22,39,78,327,65.4,C,Fail
+4235,Cynthia Parker DVM,55,38,86,38,39,256,51.2,D,Pass
+7002,Robert Smith,90,71,52,59,58,330,66,C,Pass
+5998,Marie Valdez,20,30,76,69,42,237,47.4,F,Fail
+9661,Patty Duke,50,61,26,35,79,251,50.2,D,Fail
+5144,Teresa Lucas,21,20,67,31,88,227,45.4,F,Fail
+3719,Melanie Lowe,56,51,28,38,67,240,48,F,Fail
+9310,Isaiah Morales,99,22,39,43,73,276,55.2,D,Fail
+9271,Connor Fry,52,43,94,91,55,335,67,C,Pass
+4603,Autumn Nguyen,57,44,37,85,73,296,59.2,D,Pass
+5001,Jasmin Pena,54,99,80,60,52,345,69,C,Pass
+5618,Mrs. Carol Williams MD,87,52,33,40,67,279,55.8,D,Fail
+3205,Andrew Lutz,39,27,26,86,36,214,42.8,F,Fail
+8431,Julie Martin,52,67,95,78,41,333,66.6,C,Pass
+4604,Lisa Brown,49,57,70,73,27,276,55.2,D,Fail
+7287,Holly King,46,46,40,49,47,228,45.6,F,Pass
+3481,Ricky Sanders,83,88,80,67,38,356,71.2,B,Pass
+3068,Gary Taylor,23,54,83,68,36,264,52.8,D,Fail
+4514,Arthur Thornton,63,49,65,25,56,258,51.6,D,Fail
+2499,Eric Leonard,43,65,72,79,82,341,68.2,C,Pass
+5212,William Smith,51,52,86,37,44,270,54,D,Pass
+5550,Daniel Daniel,73,77,86,65,43,344,68.8,C,Pass
+8265,Joel Nicholson,51,66,42,85,46,290,58,D,Pass
+6398,Benjamin Burke,21,36,52,28,62,199,39.8,F,Fail
+2706,Brandi Roberts,67,58,61,45,69,300,60,C,Pass
+9410,Patrick Anderson,44,43,32,79,26,224,44.8,F,Fail
+5851,Jerry Butler,76,55,64,39,84,318,63.6,C,Pass
+9842,Cynthia Garrett,27,35,33,95,34,224,44.8,F,Fail
+6069,Carrie Hall,85,51,82,70,44,332,66.4,C,Pass
+7081,Paul Brown,77,82,81,41,77,358,71.6,B,Pass
+9812,William Villarreal,77,68,71,61,89,366,73.2,B,Pass
+1790,Randy Pittman,34,73,79,27,72,285,57,D,Fail
+8268,Alexandra Roth,79,24,87,25,66,281,56.2,D,Fail
+1383,Stephanie Mitchell,74,59,71,35,32,271,54.2,D,Fail
+4197,Michelle Kemp,49,38,36,82,38,243,48.6,F,Pass
+4517,Corey Hicks,77,74,81,42,28,302,60.4,C,Fail
+6733,Melinda Hancock,31,20,77,20,53,201,40.2,F,Fail
+5406,Julian Smith,67,20,35,80,83,285,57,D,Fail
+5652,Brooke Davis,82,88,41,86,95,392,78.4,B,Pass
+4846,Diane Williams,45,35,70,76,48,274,54.8,D,Pass
+9806,Stephanie Beck,97,88,66,81,88,420,84,A,Pass
+8526,Joe Kim,95,35,67,58,52,307,61.4,C,Pass
+3257,Tammy Byrd,42,29,88,53,71,283,56.6,D,Fail
+1214,Scott Gomez,29,38,77,20,88,252,50.4,D,Fail
+2921,Sean Davis,23,35,43,99,21,221,44.2,F,Fail
+1853,Luis Hunter,51,43,31,69,54,248,49.6,F,Fail
+4418,Rachel Mahoney MD,52,52,80,70,62,316,63.2,C,Pass
+6729,Christina Woodward,31,86,84,52,59,312,62.4,C,Fail
+4509,Shawna Moore,93,62,63,48,32,298,59.6,D,Fail
+8646,Stacy Jones,31,65,21,54,100,271,54.2,D,Fail
+4675,Ms. Susan Suarez,27,45,93,53,26,244,48.8,F,Fail
+9291,Donna Briggs,87,77,94,48,55,361,72.2,B,Pass
+8808,Tiffany Russell,40,55,29,92,43,259,51.8,D,Fail
+5441,Shawn Phillips,83,68,55,43,42,291,58.2,D,Pass
+6001,Peter Wilson,81,56,31,74,32,274,54.8,D,Fail
+5630,Joe Bernard,42,49,36,81,32,240,48,F,Fail
+4311,Brittany Hamilton,78,38,68,31,80,295,59,D,Fail
+6577,Maria Rogers,38,95,28,90,47,298,59.6,D,Fail
+6809,Rebecca Miller,97,71,35,88,31,322,64.4,C,Fail
+2318,Bryan Velazquez,44,71,72,42,35,264,52.8,D,Pass
+4948,William Montgomery,76,58,72,61,77,344,68.8,C,Pass
+7574,Robert Berg,58,33,24,54,94,263,52.6,D,Fail
+8155,Peter White,37,95,28,93,77,330,66,C,Fail
+5776,Ashley Garcia,36,26,65,32,59,218,43.6,F,Fail
+1857,Brandon Smith,61,28,69,46,85,289,57.8,D,Fail
+1742,Kristen Orozco,24,48,56,57,27,212,42.4,F,Fail
+4406,Joanna Logan,84,36,90,64,23,297,59.4,D,Fail
+2800,Mark Harper,55,89,50,38,80,312,62.4,C,Pass
+1666,Jaime Hanson,73,58,93,38,58,320,64,C,Pass
+1328,Johnathan Morris,86,64,32,77,39,298,59.6,D,Fail
+7728,Jeffrey Sosa,91,80,58,20,22,271,54.2,D,Fail
+6489,Mitchell Sharp,96,81,82,44,75,378,75.6,B,Pass
+9047,Jose Peters,52,57,25,77,63,274,54.8,D,Fail
+5788,Jeffrey Torres,64,51,64,80,66,325,65,C,Pass
+8426,Noah Lee,40,99,94,55,38,326,65.2,C,Pass
+8366,Jeremy Graham,39,76,37,66,68,286,57.2,D,Pass
+2963,Mary Harrison,33,34,50,20,73,210,42,F,Fail
+3669,Meghan Roy,22,35,76,94,31,258,51.6,D,Fail
+4925,Kevin Moore,93,35,91,95,43,357,71.4,B,Pass
+6915,Pedro Roth,47,27,55,27,77,233,46.6,F,Fail
+4538,Holly Donaldson,79,69,47,60,83,338,67.6,C,Pass
+1663,Patricia Boyer,46,82,36,92,52,308,61.6,C,Pass
+1708,Alexander Mccarty,96,48,32,65,54,295,59,D,Fail
+9707,Michael Baldwin DDS,25,88,66,44,85,308,61.6,C,Fail
+4188,Anna Harper,29,75,49,24,52,229,45.8,F,Fail
+5902,Steve Green,84,37,68,30,45,264,52.8,D,Fail
+7107,Edwin Boyd,82,78,46,68,96,370,74,B,Pass
+8040,Emily Chambers,52,20,40,74,25,211,42.2,F,Fail
+4140,Hunter Martinez,100,88,24,22,72,306,61.2,C,Fail
+3797,Victor Moss,42,72,56,93,93,356,71.2,B,Pass
+7752,Kelly Lucas,36,97,92,20,70,315,63,C,Fail
+8473,Reginald Richardson,64,96,23,81,84,348,69.6,C,Fail
+1613,Patrick Sanchez,51,53,91,58,45,298,59.6,D,Pass
+8298,Michelle Chen DDS,53,73,22,69,31,248,49.6,F,Fail
+6502,Richard Sherman,84,73,24,76,36,293,58.6,D,Fail
+7506,Robert Williams,66,42,98,33,85,324,64.8,C,Fail
+4633,Samuel Alexander,94,70,57,83,57,361,72.2,B,Pass
+9239,Anthony Graham,69,49,98,70,82,368,73.6,B,Pass
+9872,Dr. Lynn Hoffman,71,57,98,49,70,345,69,C,Pass
+6585,Miss April Howard,100,24,48,23,29,224,44.8,F,Fail
+1594,Tyler Rodriguez,75,36,93,36,88,328,65.6,C,Pass
+7265,Kevin Bowman,53,25,72,85,96,331,66.2,C,Fail
+9985,Christopher Henry,62,94,42,74,99,371,74.2,B,Pass
+9204,Joshua Richardson,94,35,27,23,23,202,40.4,F,Fail
+1959,Amy Washington,75,44,86,86,46,337,67.4,C,Pass
+4036,Amanda Cook,51,69,80,70,38,308,61.6,C,Pass
+3694,Scott Montes,40,24,61,80,41,246,49.2,F,Fail
+7829,Sean Thomas,40,89,20,24,31,204,40.8,F,Fail
+8694,Amanda Roberts,65,53,68,97,64,347,69.4,C,Pass
+9382,Joanna Rose,46,92,45,66,75,324,64.8,C,Pass
+1113,Willie Russell,82,67,80,100,45,374,74.8,B,Pass
+7637,Peter Day,55,20,27,71,98,271,54.2,D,Fail
+6344,Matthew Sherman,66,75,33,47,97,318,63.6,C,Fail
+5468,Stephanie Moore DDS,21,45,33,78,75,252,50.4,D,Fail
+2698,Brandon Fletcher,26,22,42,37,57,184,36.8,F,Fail
+7871,Ryan Thomas,34,83,47,93,58,315,63,C,Fail
+8556,Mrs. Amber Luna DVM,76,36,63,44,36,255,51,D,Pass
+5031,Crystal Fry,32,44,87,29,86,278,55.6,D,Fail
+2575,William Le,37,53,27,59,61,237,47.4,F,Fail
+2322,Antonio Carter,60,25,71,45,83,284,56.8,D,Fail
+9056,Beth Abbott,78,75,78,89,52,372,74.4,B,Pass
+6326,Christine Howard,72,41,40,89,89,331,66.2,C,Pass
+8790,Chelsea Arellano,23,94,81,81,43,322,64.4,C,Fail
+3873,Stacy Rodriguez,74,28,22,50,59,233,46.6,F,Fail
+3176,Shannon Green,55,43,25,85,94,302,60.4,C,Fail
+9203,Donna Reed,23,98,25,70,81,297,59.4,D,Fail
+9676,Michelle Wang,76,85,98,94,27,380,76,B,Fail
+2142,Thomas Barker,45,70,64,63,24,266,53.2,D,Fail
+4138,Kimberly Cline,89,45,87,38,39,298,59.6,D,Pass
+8314,Clinton Weber,31,66,20,33,83,233,46.6,F,Fail
+9826,Lindsay Murphy,57,56,30,96,22,261,52.2,D,Fail
+5149,Mallory May,52,25,69,29,24,199,39.8,F,Fail
+9098,Larry Torres,42,29,63,21,32,187,37.4,F,Fail
+2991,Tina Mccormick,59,21,84,82,92,338,67.6,C,Fail
+6780,Brian Sampson,36,28,94,34,43,235,47,F,Fail
+1363,Christine Park,57,54,68,88,81,348,69.6,C,Pass
+6589,Vicki Lewis,79,69,97,94,28,367,73.4,B,Fail
+9377,Matthew Black,53,95,54,20,59,281,56.2,D,Fail
+2982,Felicia Lee,83,41,79,83,91,377,75.4,B,Pass
+7186,James Black,30,33,79,49,54,245,49,F,Fail
+4265,James Mitchell,56,24,97,45,81,303,60.6,C,Fail
+9696,Alexander Mcconnell,23,61,37,59,91,271,54.2,D,Fail
+8291,Danielle Clark,58,33,51,70,57,269,53.8,D,Fail
+5094,Robert Foster,42,82,34,44,36,238,47.6,F,Fail
+7933,Gary Clark,85,97,72,70,58,382,76.4,B,Pass
+2962,Cynthia Martin,70,89,25,86,26,296,59.2,D,Fail
+7780,Brianna Cunningham,70,91,61,83,34,339,67.8,C,Fail
+8082,Dr. Jesus Johnson,48,52,46,55,48,249,49.8,F,Pass
+7240,Jessica Jarvis,57,76,46,74,52,305,61,C,Pass
+3033,Theresa Hensley,87,85,29,24,93,318,63.6,C,Fail
+2538,James Mckee,57,32,50,66,71,276,55.2,D,Fail
+3406,Jonathan Blanchard,75,34,48,27,24,208,41.6,F,Fail
+5615,Melissa Estrada,48,66,87,95,64,360,72,B,Pass
+3994,John Gallagher,21,46,55,55,45,222,44.4,F,Fail
+3274,Catherine Velasquez,62,46,88,39,30,265,53,D,Fail
+3609,Joyce Thomas,93,57,25,91,42,308,61.6,C,Fail
+9179,Theresa Hughes,66,65,31,32,81,275,55,D,Fail
+4463,Steven Golden,79,62,95,87,24,347,69.4,C,Fail
+6178,Miss April Smith,56,91,50,28,70,295,59,D,Fail
+,,48,97,59,60,30,294,58.8,D,Fail
+,,42,20,65,40,55,222,44.4,F,Fail
+,,73,76,20,82,73,324,64.8,C,Fail
+,,74,59,34,40,66,273,54.6,D,Fail
+,,92,72,28,93,71,356,71.2,B,Fail
+,,76,45,60,54,82,317,63.4,C,Pass
+,,44,94,57,21,26,242,48.4,F,Fail
+,,53,36,62,78,70,299,59.8,D,Pass
+,,73,43,44,90,71,321,64.2,C,Pass
+,,89,52,68,48,82,339,67.8,C,Pass
+,,41,45,47,68,90,291,58.2,D,Pass
+,,100,68,39,82,80,369,73.8,B,Pass
+,,68,90,20,32,70,280,56,D,Fail
+,,75,81,51,49,48,304,60.8,C,Pass
+,,68,64,49,35,59,275,55,D,Pass
+,,38,37,20,97,66,258,51.6,D,Fail
+,,85,57,70,82,23,317,63.4,C,Fail
+,,20,27,48,74,22,191,38.2,F,Fail
+,,51,29,93,53,74,300,60,C,Fail
+,,51,69,26,27,84,257,51.4,D,Fail
+,,76,86,78,91,73,404,80.8,A,Pass
+,,86,70,27,53,54,290,58,D,Fail
+,,97,51,65,35,87,335,67,C,Pass
+,,56,73,33,74,67,303,60.6,C,Fail
+,,26,93,26,52,42,239,47.8,F,Fail
+,,38,38,55,48,79,258,51.6,D,Pass
+,,21,20,66,88,39,234,46.8,F,Fail
+,,30,21,86,31,39,207,41.4,F,Fail
+,,24,56,57,28,72,237,47.4,F,Fail
+,,63,43,100,93,49,348,69.6,C,Pass
+,,78,100,100,33,28,339,67.8,C,Fail
+,,59,85,44,92,41,321,64.2,C,Pass
+,,23,45,77,48,56,249,49.8,F,Fail
+,,94,89,37,61,60,341,68.2,C,Pass
+,,57,53,36,56,44,246,49.2,F,Pass
+,,95,46,76,50,25,292,58.4,D,Fail
+,,59,31,72,90,29,281,56.2,D,Fail
+,,64,36,45,81,65,291,58.2,D,Pass
+,,83,21,73,84,70,331,66.2,C,Fail
+,,72,55,45,48,40,260,52,D,Pass
+,,30,59,30,55,78,252,50.4,D,Fail
+,,58,73,74,43,41,289,57.8,D,Pass
+,,88,75,52,55,39,309,61.8,C,Pass
+,,100,81,92,45,85,403,80.6,A,Pass
+,,92,92,59,36,20,299,59.8,D,Fail
+,,80,62,61,44,58,305,61,C,Pass
+,,54,22,63,70,31,240,48,F,Fail
+,,38,63,78,68,80,327,65.4,C,Pass
+,,36,93,76,74,66,345,69,C,Pass
+,,31,81,99,27,40,278,55.6,D,Fail
+,,100,99,89,91,44,423,84.6,A,Pass
+,,31,34,78,45,45,233,46.6,F,Fail
+,,66,51,29,35,90,271,54.2,D,Fail
+,,36,42,45,26,33,182,36.4,F,Fail
+,,98,26,28,67,91,310,62,C,Fail
+,,78,58,37,78,36,287,57.4,D,Pass
+,,33,50,43,79,64,269,53.8,D,Fail
+,,22,56,62,59,74,273,54.6,D,Fail
+,,58,34,23,44,32,191,38.2,F,Fail
+,,52,35,61,85,74,307,61.4,C,Pass
+,,61,53,49,32,32,227,45.4,F,Fail
+,,37,51,58,65,48,259,51.8,D,Pass
+,,81,81,76,35,75,348,69.6,C,Pass
+,,29,49,44,24,84,230,46,F,Fail
+,,68,22,64,33,49,236,47.2,F,Fail
+,,87,37,81,56,44,305,61,C,Pass
+,,67,84,72,98,92,413,82.6,A,Pass
+,,34,68,87,31,78,298,59.6,D,Fail
+,,56,80,62,89,58,345,69,C,Pass
+,,75,82,65,30,81,333,66.6,C,Fail
+,,96,44,90,71,23,324,64.8,C,Fail
+,,78,91,39,82,73,363,72.6,B,Pass
+,,93,76,60,22,25,276,55.2,D,Fail
+,,24,24,73,66,68,255,51,D,Fail
+,,28,39,80,54,69,270,54,D,Fail
+,,81,36,22,51,32,222,44.4,F,Fail
+,,92,87,33,30,75,317,63.4,C,Fail
+,,86,48,28,86,44,292,58.4,D,Fail
+,,95,61,28,98,59,341,68.2,C,Fail
+,,44,24,30,78,98,274,54.8,D,Fail
+,,57,91,24,67,37,276,55.2,D,Fail
+,,89,56,79,67,96,387,77.4,B,Pass
+,,47,88,96,100,59,390,78,B,Pass
+,,64,81,77,86,75,383,76.6,B,Pass
+,,59,59,96,52,25,291,58.2,D,Fail
+,,38,99,59,78,78,352,70.4,B,Pass
+,,67,60,32,64,72,295,59,D,Fail
+,,61,82,46,57,79,325,65,C,Pass
+,,26,24,64,77,50,241,48.2,F,Fail
+,,42,61,29,51,72,255,51,D,Fail
+,,49,58,50,21,97,275,55,D,Fail
+,,96,31,58,85,32,302,60.4,C,Fail
+,,65,46,36,79,83,309,61.8,C,Pass
+,,54,89,49,90,93,375,75,B,Pass
+,,82,47,79,98,56,362,72.4,B,Pass
+,,41,87,39,87,83,337,67.4,C,Pass
+,,36,31,41,36,29,173,34.6,F,Fail
+,,84,41,69,33,83,310,62,C,Fail
+,,66,48,95,55,71,335,67,C,Pass
+,,95,26,48,30,52,251,50.2,D,Fail
